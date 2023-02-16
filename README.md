@@ -23,4 +23,4 @@
 5. Repo contains a quality README file with descriptions, Screenshots, and link to deployed application.
 
 ## *URL for The REPO: https://github.com/con118/my-first-website
-## *URL for the Gitpages site: 
+## *URL for the Gitpages site: https://con118.github.io/my-first-website/
