@@ -2,7 +2,7 @@
 
 ### This is the my first site with sydney university!
 
-[the best banner in the world](assets/images/images.jpeg)
+[the best banner in the world](https://int.sydney.com/sites/international/files/styles/header_slider/public/2016-12/Southern%20Highlands%20Sunrise%20-%20Merlin%20Entertainment.webp?itok=WuPgjcSU))
 
 ##*ACCEPTANCE CRITERIA*
 
