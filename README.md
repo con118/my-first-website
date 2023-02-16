@@ -2,7 +2,7 @@
 
 ### This is the my first site with sydney university!
 
-##*ACCEPTANCE CRITERIA*
+## *ACCEPTANCE CRITERIA*
 
 ### Technical Acceptance Criteria: 40%
 1. Application's links all function correctly.
